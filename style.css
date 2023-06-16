@@ -1,0 +1,14 @@
+/* Created by Jonathan Pizarra (JS Challenger) */
+
+body {
+    
+}
+#tab{
+    border:1px solid green;
+    border-collapse:collapse;
+}
+td{
+    border:1px solid green;
+    width:15px;
+    height:15px;
+}
